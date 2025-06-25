@@ -99,3 +99,19 @@
   Diff Summary:
      .gitfield/local.sigil.md | 18 +++++++++---------
      1 file changed, 9 insertions(+), 9 deletions(-)
+[2025-06-25T20:32:26Z] Radicle: RID=rad:z3FEj7rF8gZw9eFksCuiN43qjzrex, Peer ID=z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz, Branch=master, Commit=aba40a2
+  CLI: rad inspect rad:z3FEj7rF8gZw9eFksCuiN43qjzrex # View project details
+  CLI: git ls-tree -r --name-only HEAD # View file structure
+  Diff Summary:
+     .gitfield/canonical.meta.asc                       | 26 ++++++------
+     .gitfield/index.json.asc                           | 26 ++++++------
+     .gitfield/pushed.log                               |  4 ++
+     .well-known/gitfield.json.asc                      | 26 ++++++------
+     .../submission_brief_of_the-recursive-claim_v3.md  | 46 ++++++++++++++++++++++
+     docs/.well-known/gitfield.json.asc                 | 26 ++++++------
+     docs/canonical.meta.asc                            | 26 ++++++------
+     docs/gitfield.json.asc                             | 26 ++++++------
+     docs/index.json.asc                                | 26 ++++++------
+     docs/integrity.sha256.asc                          | 26 ++++++------
+     docs/repos.json.asc                                | 26 ++++++------
+     11 files changed, 167 insertions(+), 117 deletions(-)
