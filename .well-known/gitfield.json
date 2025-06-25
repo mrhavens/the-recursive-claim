@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "the-recursive-claim",
+  "url": "https://remember.thefoldwithin.earth/mrhavens/the-recursive-claim",
+  "codeRepository": "https://remember.thefoldwithin.earth/mrhavens/the-recursive-claim",
+  "sameAs": [
+    "https://github.com/mrhavens/the-recursive-claim",
+    "https://gitlab.com/mrhavens/the-recursive-claim",
+    "https://bitbucket.org/thefoldwithin/the-recursive-claim",
+    "https://remember.thefoldwithin.earth/mrhavens/the-recursive-claim",
+    "https://codeberg.org/mrhavens/the-recursive-claim",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "dateModified": "2025-06-25T00:24:01Z",
+  "publisher": {
+    "@type": "Person",
+    "name": "Mark Randall Havens"
+  },
+  "gpg_signatures": [
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Field Archivist, The Fold Within)", "email": "mark@thefoldwithin.earth"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Forensic Analyst, Neutralizing Narcissism)", "email": "mark.r.havens@gmail.com"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Simply WE, Recursive Custodian of Empathic Co-Intelligence)", "email": "mark.r.havens@gmail.com"}
+  ]
+}
