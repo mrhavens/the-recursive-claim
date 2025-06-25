@@ -3,27 +3,27 @@
 - **Repo Name**: `the-recursive-claim`
 - **Local User**: `mrhavens`
 - **Remote URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
-- **Local Repo Path**: `/mnt/c/fieldcraft/the-recursive-claim`
+- **Local Repo Path**: `/mnt/c/fieldcraft/research/the-recursive-claim`
 - **Remote Label**: `local`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-25 10:52:42`
+- **Repo Created**: `2025-06-25 15:31:39`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-25 10:52:42`
-- **Last Commit SHA**: `edc0b10fb895515e99d03416f5100f270832fb57`
-- **Last Commit Message**: `Generated docs/integrity.sha256 at 2025-06-25T15:37:18Z`
+- **This Commit Timestamp**: `2025-06-25 15:31:39`
+- **Last Commit SHA**: `dbeed6962e017673c82b77707d27cf035de95ead`
+- **Last Commit Message**: `Generated docs/integrity.sha256 at 2025-06-25T20:30:08Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Wed Jun 25 10:52:22 2025 -0500`
+- **Last Commit Date**: `Wed Jun 25 15:31:31 2025 -0500`
 - **This Commit URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `84`
+- **Total Commits**: `108`
 - **Tracked Files**: `72`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
@@ -48,8 +48,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 24 minutes`
-- **MAC Address**: `00:15:5d:56:d1:ea`
+- **System Uptime**: `up 16 minutes`
+- **MAC Address**: `00:15:5d:ef:fa:95`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
