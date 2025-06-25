@@ -6,25 +6,25 @@
 - **Local Repo Path**: `/mnt/c/fieldcraft/the-recursive-claim`
 - **Remote Label**: `local`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-25 10:46:47`
+- **Repo Created**: `2025-06-25 10:52:42`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-25 10:46:47`
-- **Last Commit SHA**: `79b482266acca41cfc4d18fb4ffc8e5f425d7bcd`
-- **Last Commit Message**: `Copied /mnt/c/fieldcraft/the-recursive-claim/docs/GITFIELD.md.sig.4E27D37C358872BF to docs at 2025-06-25T15:37:18Z`
+- **This Commit Timestamp**: `2025-06-25 10:52:42`
+- **Last Commit SHA**: `edc0b10fb895515e99d03416f5100f270832fb57`
+- **Last Commit Message**: `Generated docs/integrity.sha256 at 2025-06-25T15:37:18Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Wed Jun 25 10:46:29 2025 -0500`
+- **Last Commit Date**: `Wed Jun 25 10:52:22 2025 -0500`
 - **This Commit URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `68`
-- **Tracked Files**: `70`
+- **Total Commits**: `84`
+- **Tracked Files**: `72`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
 
@@ -48,7 +48,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 18 minutes`
+- **System Uptime**: `up 24 minutes`
 - **MAC Address**: `00:15:5d:56:d1:ea`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
