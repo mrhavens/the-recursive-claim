@@ -1,0 +1,25 @@
+{
+  "repository": "the-recursive-claim",
+  "canonical_url": "https://remember.thefoldwithin.earth/mrhavens/the-recursive-claim",
+  "remotes": [
+    "https://github.com/mrhavens/the-recursive-claim",
+    "https://gitlab.com/mrhavens/the-recursive-claim",
+    "https://bitbucket.org/thefoldwithin/the-recursive-claim",
+    "https://remember.thefoldwithin.earth/mrhavens/the-recursive-claim",
+    "https://codeberg.org/mrhavens/the-recursive-claim",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "radicle": {
+    "rid": "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex",
+    "peer_id": "z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz"
+  },
+  "commit": "9c5cc7a",
+  "tree_hash": "c2c681579b25cb05078d832c5533541bedcbd8d2",
+  "timestamp": "2025-06-25T00:24:01Z",
+  "synced_cycles": 0,
+  "gpg_signatures": [
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Field Archivist, The Fold Within)", "email": "mark@thefoldwithin.earth"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Forensic Analyst, Neutralizing Narcissism)", "email": "mark.r.havens@gmail.com"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Simply WE, Recursive Custodian of Empathic Co-Intelligence)", "email": "mark.r.havens@gmail.com"}
+  ]
+}
