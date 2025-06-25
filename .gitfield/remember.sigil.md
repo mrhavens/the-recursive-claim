@@ -3,28 +3,28 @@
 - **Repo Name**: `the-recursive-claim`
 - **Forgejo User**: `mrhavens`
 - **Remote URL**: [https://remember.thefoldwithin.earth/mrhavens/the-recursive-claim](https://remember.thefoldwithin.earth/mrhavens/the-recursive-claim)
-- **Local Repo Path**: `/mnt/c/fieldcraft/the-recursive-claim`
+- **Local Repo Path**: `/mnt/c/fieldcraft/research/the-recursive-claim`
 - **Remote Label**: `remember`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-25 10:53:45`
+- **Repo Created**: `2025-06-25 15:32:45`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-25 10:53:45`
-- **Last Commit SHA**: `26382c32d9ea73a44f6e1b7d9488c30d23508609`
-- **Last Commit Message**: `Post-Radicle sync at 2025-06-25T15:37:18Z`
+- **This Commit Timestamp**: `2025-06-25 15:32:45`
+- **Last Commit SHA**: `a2d3683fcaf678628250aabf607453b987ff33b0`
+- **Last Commit Message**: `Post-Radicle sync at 2025-06-25T20:30:08Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Wed Jun 25 10:53:34 2025 -0500`
-- **This Commit URL**: [https://remember.thefoldwithin.earth/mrhavens/the-recursive-claim/commit/26382c32d9ea73a44f6e1b7d9488c30d23508609](https://remember.thefoldwithin.earth/mrhavens/the-recursive-claim/commit/26382c32d9ea73a44f6e1b7d9488c30d23508609)
+- **Last Commit Date**: `Wed Jun 25 15:32:28 2025 -0500`
+- **This Commit URL**: [https://remember.thefoldwithin.earth/mrhavens/the-recursive-claim/commit/a2d3683fcaf678628250aabf607453b987ff33b0](https://remember.thefoldwithin.earth/mrhavens/the-recursive-claim/commit/a2d3683fcaf678628250aabf607453b987ff33b0)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `88`
-- **Tracked Files**: `72`
+- **Total Commits**: `111`
+- **Tracked Files**: `73`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
@@ -48,8 +48,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 25 minutes`
-- **MAC Address**: `00:15:5d:56:d1:ea`
+- **System Uptime**: `up 17 minutes`
+- **MAC Address**: `00:15:5d:ef:fa:95`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
