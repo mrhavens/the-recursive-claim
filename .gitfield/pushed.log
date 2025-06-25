@@ -27,3 +27,7 @@
   Diff Summary:
      .gitfield/gitlab.sigil.md | 59 +++++++++++++++++++++++++++++++++++++++++++++++
      1 file changed, 59 insertions(+)
+[2025-06-25T15:43:18Z] Bitbucket: https://bitbucket.org/thefoldwithin/the-recursive-claim, Branch=master, Commit=98d5b05
+  Diff Summary:
+     .gitfield/bitbucket.sigil.md | 59 ++++++++++++++++++++++++++++++++++++++++++++
+     1 file changed, 59 insertions(+)
