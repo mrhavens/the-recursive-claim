@@ -45,3 +45,7 @@
   Diff Summary:
      .gitfield/radicle.sigil.md | 20 ++++++++++----------
      1 file changed, 10 insertions(+), 10 deletions(-)
+[2025-06-25T15:48:04Z] Forgejo: https://remember.thefoldwithin.earth/mrhavens/the-recursive-claim, Branch=master, Commit=98d5b05
+  Diff Summary:
+     .gitfield/remember.sigil.md | 16 ++++++++--------
+     1 file changed, 8 insertions(+), 8 deletions(-)
