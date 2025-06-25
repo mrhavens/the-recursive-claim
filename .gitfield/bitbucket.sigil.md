@@ -3,28 +3,28 @@
 - **Repo Name**: `the-recursive-claim`
 - **Bitbucket Workspace**: `thefoldwithin`
 - **Remote URL**: [https://bitbucket.org/thefoldwithin/the-recursive-claim](https://bitbucket.org/thefoldwithin/the-recursive-claim)
-- **Local Repo Path**: `/mnt/c/fieldcraft/the-recursive-claim`
+- **Local Repo Path**: `/mnt/c/fieldcraft/research/the-recursive-claim`
 - **Remote Label**: `bitbucket`
 - **Default Branch**: `master`
-- **This Commit Date**: `2025-06-25 10:55:49`
+- **This Commit Date**: `2025-06-25 15:34:44`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-25 10:55:49`
-- **Last Commit SHA**: `4df3c59b0866026e97f6c385638b6e6b5cbf8fba`
-- **Last Commit Message**: `Post-GitLab sync at 2025-06-25T15:37:18Z`
+- **This Commit Timestamp**: `2025-06-25 15:34:44`
+- **Last Commit SHA**: `84cb7b33b46d92d2b99367b94010afa0352dbab6`
+- **Last Commit Message**: `Post-GitLab sync at 2025-06-25T20:30:08Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Wed Jun 25 10:55:33 2025 -0500`
-- **This Commit URL**: [https://bitbucket.org/thefoldwithin/the-recursive-claim/commits/4df3c59b0866026e97f6c385638b6e6b5cbf8fba](https://bitbucket.org/thefoldwithin/the-recursive-claim/commits/4df3c59b0866026e97f6c385638b6e6b5cbf8fba)
+- **Last Commit Date**: `Wed Jun 25 15:34:30 2025 -0500`
+- **This Commit URL**: [https://bitbucket.org/thefoldwithin/the-recursive-claim/commits/84cb7b33b46d92d2b99367b94010afa0352dbab6](https://bitbucket.org/thefoldwithin/the-recursive-claim/commits/84cb7b33b46d92d2b99367b94010afa0352dbab6)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `93`
-- **Tracked Files**: `72`
+- **Total Commits**: `116`
+- **Tracked Files**: `73`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
@@ -47,12 +47,12 @@
 - **Architecture**: `x86_64`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
-- **MAC Address**: `00:15:5d:56:d1:ea`
+- **MAC Address**: `00:15:5d:ef:fa:95`
 - **Local IP**: `172.18.207.124`
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 27 minutes`
+- **System Uptime**: `up 18 minutes`
 
 ---
 
