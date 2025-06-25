@@ -2,28 +2,28 @@
 
 - **Project Name**: `the-recursive-claim`
 - **Radicle URN**: `rad://z3592RQWVYYVNWLzxn47o1HwtrJpA`
-- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3592RQWVYYVNWLzxn47o1HwtrJpA/tree/1c45a42d59ab321d2e62608e31c4b95e03df4b3a](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3592RQWVYYVNWLzxn47o1HwtrJpA/tree/1c45a42d59ab321d2e62608e31c4b95e03df4b3a)
-- **Local Repo Path**: `/mnt/c/fieldcraft/the-recursive-claim`
+- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3592RQWVYYVNWLzxn47o1HwtrJpA/tree/85494f21e89b4ce72fcae47304a2af09ea129bd6](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3592RQWVYYVNWLzxn47o1HwtrJpA/tree/85494f21e89b4ce72fcae47304a2af09ea129bd6)
+- **Local Repo Path**: `/mnt/c/fieldcraft/research/the-recursive-claim`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-25 10:53:21`
+- **Repo Created**: `2025-06-25 15:37:32`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-25 10:53:21`
-- **Last Commit SHA**: `1c45a42d59ab321d2e62608e31c4b95e03df4b3a`
-- **Last Commit Message**: `Post-Local sync at 2025-06-25T15:37:18Z`
+- **This Commit Timestamp**: `2025-06-25 15:37:32`
+- **Last Commit SHA**: `85494f21e89b4ce72fcae47304a2af09ea129bd6`
+- **Last Commit Message**: `Post-Local sync at 2025-06-25T20:30:08Z`
 - **Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Commit Date**: `Wed Jun 25 10:53:04 2025 -0500`
-- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3592RQWVYYVNWLzxn47o1HwtrJpA/tree/1c45a42d59ab321d2e62608e31c4b95e03df4b3a](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3592RQWVYYVNWLzxn47o1HwtrJpA/tree/1c45a42d59ab321d2e62608e31c4b95e03df4b3a)
+- **Commit Date**: `Wed Jun 25 15:37:17 2025 -0500`
+- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3592RQWVYYVNWLzxn47o1HwtrJpA/tree/85494f21e89b4ce72fcae47304a2af09ea129bd6](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3592RQWVYYVNWLzxn47o1HwtrJpA/tree/85494f21e89b4ce72fcae47304a2af09ea129bd6)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `86`
-- **Tracked Files**: `72`
+- **Total Commits**: `125`
+- **Tracked Files**: `73`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
 
@@ -47,8 +47,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 25 minutes`
-- **MAC Address**: `00:15:5d:56:d1:ea`
+- **System Uptime**: `up 21 minutes`
+- **MAC Address**: `00:15:5d:ef:fa:95`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
